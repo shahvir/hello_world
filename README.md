@@ -1,2 +1,1 @@
-# hello_world
-I grew up in Iran and immigrated to USA in 2011. I recently graduated Magna Cum Laude from UCIrvine with a BS in Computer Science. I have worked as a web developer intern at Reazon systems Inc. and helped them with their database and front end design. In my spare time, I enjoy playing a musical instrument called Daf, swimming, and biking. After graduation in June 2017, I plan to enter the job market and get some years of real world experience before I decide about the graduate degree.
+
